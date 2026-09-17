@@ -1,0 +1,12 @@
+# Local data and private lab exports
+*.csv
+*.xlsx
+*.docx
+*.pdf
+.env
+.env.*
+private/
+local-data/
+__pycache__/
+.DS_Store
+Thumbs.db
